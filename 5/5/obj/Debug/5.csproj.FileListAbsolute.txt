@@ -1,0 +1,9 @@
+C:\Users\qqq\Desktop\5sem\sp\5\5\bin\Debug\5.exe.config
+C:\Users\qqq\Desktop\5sem\sp\5\5\bin\Debug\5.exe
+C:\Users\qqq\Desktop\5sem\sp\5\5\bin\Debug\5.pdb
+C:\Users\qqq\Desktop\5sem\sp\5\5\obj\Debug\5.csprojAssemblyReference.cache
+C:\Users\qqq\Desktop\5sem\sp\5\5\obj\Debug\_5.Properties.Resources.resources
+C:\Users\qqq\Desktop\5sem\sp\5\5\obj\Debug\5.csproj.GenerateResource.cache
+C:\Users\qqq\Desktop\5sem\sp\5\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+C:\Users\qqq\Desktop\5sem\sp\5\5\obj\Debug\5.exe
+C:\Users\qqq\Desktop\5sem\sp\5\5\obj\Debug\5.pdb

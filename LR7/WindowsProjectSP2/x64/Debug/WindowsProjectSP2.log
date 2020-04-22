@@ -1,0 +1,6 @@
+﻿  WindowsProjectSP2.cpp
+c:\users\qqq\desktop\5sem\sp\lr7\windowsprojectsp2\windowsprojectsp2.cpp(33): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+c:\users\qqq\desktop\5sem\sp\lr7\windowsprojectsp2\windowsprojectsp2.cpp(72): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+c:\users\qqq\desktop\5sem\sp\lr7\windowsprojectsp2\windowsprojectsp2.cpp(87): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+c:\users\qqq\desktop\5sem\sp\lr7\windowsprojectsp2\windowsprojectsp2.cpp(249): warning C4244: =: преобразование "LRESULT" в "int", возможна потеря данных
+  WindowsProjectSP2.vcxproj -> C:\Users\qqq\Desktop\5sem\sp\LR7\x64\Debug\WindowsProjectSP2.exe

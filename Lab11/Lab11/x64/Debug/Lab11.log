@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  Lab11.cpp
+c:\users\qqq\desktop\5sem\sp\lab11\lab11\lab11.cpp(136): warning C4311: приведение типов: усечение указателя из "LPVOID" в "int"
+c:\users\qqq\desktop\5sem\sp\lab11\lab11\lab11.cpp(136): warning C4302: приведение типов: усечение из "LPVOID" к "int"
+c:\users\qqq\desktop\5sem\sp\lab11\lab11\lab11.cpp(160): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+c:\users\qqq\desktop\5sem\sp\lab11\lab11\lab11.cpp(161): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+c:\users\qqq\desktop\5sem\sp\lab11\lab11\lab11.cpp(205): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\qqq\desktop\5sem\sp\lab11\lab11\lab11.cpp(206): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\qqq\desktop\5sem\sp\lab11\lab11\lab11.cpp(207): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\qqq\desktop\5sem\sp\lab11\lab11\lab11.cpp(208): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Lab11.vcxproj -> C:\Users\qqq\Desktop\5sem\sp\Lab11\x64\Debug\Lab11.exe
