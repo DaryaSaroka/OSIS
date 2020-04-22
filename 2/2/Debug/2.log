@@ -1,0 +1,7 @@
+﻿  2.cpp
+C:\Users\qqq\Desktop\sp\2\2\2.cpp(28,10): warning C4477: "wprintf": в строке форматирования "%s" требуется аргумент типа "wchar_t *", но вариативный аргумент "1" имеет тип "LPTSTR"
+C:\Users\qqq\Desktop\sp\2\2\2.cpp(28,10): message : рекомендуется использовать "%hs" в строке форматирования
+C:\Users\qqq\Desktop\sp\2\2\2.cpp(28,10): message : рекомендуется использовать "%Ts" в строке форматирования
+C:\Users\qqq\Desktop\sp\2\2\2.cpp(28,10): message : это предупреждение основано на нестандартной семантике, используемой Visual C++
+C:\Users\qqq\Desktop\sp\2\2\2.cpp(28,10): warning C4477: "wprintf": в строке форматирования "%s" требуется аргумент типа "wchar_t *", но вариативный аргумент "3" имеет тип "LPVOID"
+  2.vcxproj -> C:\Users\qqq\Desktop\sp\2\Debug\2.exe
